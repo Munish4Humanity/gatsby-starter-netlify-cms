@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: "  "
+image: /img/startup-1993900_1920.png
+heading: "  "
+subheading: " "
 mainpitch:
   title: Freelancer
   description: Freelancer best learning content.
