@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: "  "
+title: Munish Sharma
 image: /img/startup-1993900_1920.png
-heading: "  "
-subheading: " "
+heading: "Best resource content "
+subheading: " Top-Rated  Freelancer"
 mainpitch:
   title: Freelancer
   description: Freelancer best learning content.
-description: Freelancer content
+description: Topics to be covered
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -38,11 +38,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: We will offer everything here to be a best freelancer in the
+    demand. Whether tools, Tech Stack and study material.
 main:
   heading: Great coffee with no compromises
   description: >
