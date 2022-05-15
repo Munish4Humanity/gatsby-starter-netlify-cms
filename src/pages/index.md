@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Munish Sharma
+title: " "
 image: /img/startup-1993900_1920.png
 heading: "Best resource content "
-subheading: " Top-Rated  Freelancer"
+subheading: " "
 mainpitch:
   title: Freelancer
   description: Freelancer best learning content.
